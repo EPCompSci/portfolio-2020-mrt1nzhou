@@ -3,7 +3,7 @@
 //  WarCardGame
 //
 //  Created by 90306957 on 9/10/20.
-//  Copyright © 2020 Martin Zhou. All rights reserved.
+//  Copyright © 2020 90306958. All rights reserved.
 //
 
 import UIKit
