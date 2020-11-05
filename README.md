@@ -9,8 +9,12 @@ Much of what I've learned is from Apple Tutorials, online courses, and questions
 * C++
 * HTML and CSS
 * Python 
+
+[War](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/tree/master/WarGame) is a game I made while following a [Code with Chris](https://codewithchris.com/swiftui/) tutorial.
+
+[Hit the Mole](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/tree/master/HitTheMoleGame) is deceptively simple, as it is probably the application I learned the most while making.
  
 I'm currently working on [an untitled game](https://github.com/Stratagem-Studios/Stratagem) with Stratagem Studios, and have included some of the concept art I have made for it.
 
 
-https://codewithchris.com/swiftui/
+
