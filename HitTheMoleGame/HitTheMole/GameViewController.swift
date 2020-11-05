@@ -3,7 +3,7 @@
 //  HitTheMole
 //
 //  Created by 90306957 on 10.04.2020.
-//  Copyright © 2020 Martin Zhou. All rights reserved.
+//  Copyright © 2020 90306957. All rights reserved.
 //
 
 import UIKit
