@@ -10,7 +10,7 @@ C++
 HTML and CSS
 Python 
  
-
+I'm currently working on [an untitled game](https://github.com/Stratagem-Studios/Stratagem) with Stratagem Studios, and have included some of the concept art I have made for it.
 
 
 https://codewithchris.com/swiftui/
