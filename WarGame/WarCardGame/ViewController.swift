@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  WarCardGame
 //
-//  Created by 90306957 on 9/10/20.
+//  Created by 90306957 on 09.12.20.
 //  Copyright © 2020 90306958. All rights reserved.
 //
 
