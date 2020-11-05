@@ -1,9 +1,16 @@
 # iOS-Portfolio
-2018-2019 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Hello, I'm Martin Zhou, a senior at EPHS. This portfolio showcases my projects I've been working on in my 2020 iOS Mobile App Development class. I've learned about using basic user interface with SwiftUI, 
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+Much of what I've learned is from Apple Tutorials, online courses, and questions on forums. My experience with programming and design includes:
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+Basic SwiftUI
+Basic Java
+C++
+HTML and CSS
+Python 
+ 
 
+
+
+https://codewithchris.com/swiftui/
