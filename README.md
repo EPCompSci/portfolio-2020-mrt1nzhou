@@ -14,7 +14,7 @@ Much of what I've learned is from Apple Tutorials, online courses, and questions
 
 ![War Screenshot](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/blob/master/WarGame/War%20Screenshot.png)
 
-[Hit the Mole](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/tree/master/HitTheMoleGame) is deceptively simple, as it is probably the application I learned the most while making.
+[Hit the Mole](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/tree/master/HitTheMoleGame) is deceptively simple, but it is the application I had to learn the most while making so far.
  
 ![Hit the Mole Screenshot](https://github.com/EPCompSci/portfolio-2020-mrt1nzhou/blob/master/HitTheMoleGame/HitTheMole%20Screenshot.png)
  
